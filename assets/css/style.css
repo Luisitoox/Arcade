@@ -1,0 +1,25 @@
+#pacmann{
+    width: 800px;
+    height: 500px;
+    display: table;
+    border-radius: 5%;
+}
+
+
+.container{
+    max-width: 900px;
+
+}
+
+.navbar{
+    background-color: #2B2730 !important;
+}
+#cuerpo{
+    background: linear-gradient(#2B2730, #9336B4);
+    color: bisque;
+}
+
+#foto{
+    width: 900px;
+    height: 400px;
+}
